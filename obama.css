@@ -1,0 +1,15 @@
+* {
+  text-color: white;
+}
+
+body {
+  background-color: black;
+}
+
+ol li:hover {
+  text-color: red;
+}
+
+p {
+  text-color: blue;
+}
