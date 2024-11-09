@@ -1,5 +1,5 @@
 * {
-  text-color: white;
+  color: white;
 }
 
 body {
@@ -7,9 +7,9 @@ body {
 }
 
 ol li:hover {
-  text-color: red;
+  color: red;
 }
 
 p {
-  text-color: blue;
+  color: blue;
 }
